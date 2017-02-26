@@ -1,0 +1,16 @@
+{
+  "name": "weekend-3-challenge",
+  "version": "1.0.0",
+  "description": "calculator app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "Edmund Wippler",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
